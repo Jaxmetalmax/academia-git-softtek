@@ -1,3 +1,0 @@
-añadiendo una linea y cambios para ser 
-integrados a través de un PR y que permita
-revisar antes de integrar los cambios

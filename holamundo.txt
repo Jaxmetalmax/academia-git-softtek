@@ -2,8 +2,6 @@ hola desde academia Softtek
 Nueva linea para actualizar desde mi original
 Nueva linea para actualizar desde mi clon
 Una linea de prueba desde mi rama develop
-<<<<<<< Updated upstream
 un cambio en dev sin hacer commit
-=======
 cambio en detached head
->>>>>>> Stashed changes
+Un cambio de nueva feat
